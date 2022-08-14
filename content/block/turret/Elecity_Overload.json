@@ -1,0 +1,11 @@
+{
+    "type": "Medium Arc",
+    "name": "Medium Arc",
+    "description": "Ripped the vela,High damage.Requirscoolant to shoot at the emeny.",
+    "targetAir": true,
+    "targetGround": true,
+    "health": 560,
+    "size": 2,
+    "inaccuracy": 10,
+    "shootType": 
+}

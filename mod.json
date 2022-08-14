@@ -1,0 +1,7 @@
+name: "Strong mod(first)",
+author: "Him-Mod",
+description: "This is my first mod, please be kind.",
+version: 0.01
+minGameVersion: "126.2"
+dependencies: [ ]
+hidden: false
